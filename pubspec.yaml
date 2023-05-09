@@ -31,7 +31,7 @@ dependencies:
   retrofit: ^4.0.1
   logger: ^1.3.0
   json_annotation: ^4.8.1
-  matcher: ^0.12.16
+  matcher: ^0.12.15
   
 
 dev_dependencies:
